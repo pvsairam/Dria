@@ -10,6 +10,9 @@ chmod +x dria.sh
 ./dria.sh
 ```
 
+**Reward:** The first 150 participants will get a role and, of course, receive an airdrop.  
+If you want, you can use `screen`, close the running process first, then create a screen session with `screen -Rd sultan`, and then run it again with: `./start.sh -m=gpt-4o-mini`
+
 ***NOTE***
 
 Enter the private key from MetaMask (new wallet). Enter the OpenAI key (new account). If you don't have one, create it first at https://platform.openai.com/
