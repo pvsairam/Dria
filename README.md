@@ -11,7 +11,7 @@ chmod +x dria.sh
 ```
 
 **Reward:** The first 150 participants will get a role and, of course, receive an airdrop.  
-If you want, you can use `screen`, close the running process first, then create a screen session with `screen -Rd sultan`, and then run it again with: `./start.sh -m=gpt-4o-mini`
+If you want, you can use `screen`, close the running process first, then create a screen session with `screen -Rd Dria`, and then run it again with: `./start.sh -m=gpt-4o-mini`
 
 ***NOTE***
 
